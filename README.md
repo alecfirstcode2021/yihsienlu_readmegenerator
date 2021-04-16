@@ -1,7 +1,7 @@
-# AKA ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+# Readme Generator by npm Packages ![badge](https://img.shields.io/badge/license-MIT-brightpink)
 
 
- AAA
+ This assignment use Node.js, inquirer, fs, and util to create prompts and then let users establish a Readme Markdown document. 
 
 ## Table of Contents
 - [Description](#description)
@@ -13,27 +13,27 @@
 - [Questions](#questions)
 
 ## Installation
-💾 AAA
+ Install the Node.js, inquirer package, fs package, and util package.
 
 ## Usage
-💻 AAA
+ Allows users to create a Readme Markdown file quickly.
 
 ## License
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+![badge](https://img.shields.io/badge/license-MIT-brightpink)
 <br />
 This application is covered by the MIT license. 
 
 ## Contributing
-👪 AAA
+ UT Boots Camp provides the starter materials, and then Yihsien Lu completes the following assignment.
 
 ## Tests
-✏️ AAA
+✏ none
 
 ## Questions
-AAA<br />
+You can contact me by Github or email.<br />
 <br />
-If you have any question, please contact me on [GitHub] [AAA](https://github.com/AAA)<br />
+If you have any question, please contact me on [GitHub] [alecfirstcode2021](https://github.com/alecfirstcode2021)<br />
 <br />
-or you can Email me: AAA@MAIL.COM<br /><br />
+or you can Email me: alecfirstapple@gmail.com<br /><br />
 
 

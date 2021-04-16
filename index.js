@@ -50,7 +50,7 @@ function questionsUser (){
         {
             type: "input",
             name: "tests",
-            message: "Please input the Test Instructions."
+            message: "Is any Test Instructions?"
         },
         {
             type: "input",
